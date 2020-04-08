@@ -1,0 +1,2 @@
+# sparql
+General SPARQL queries
